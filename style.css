@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mb{
+    margin-bottom: 15px;
+}
+.w100{
+    width: 100%;
+}
+.w20{
+    width: 20%;
+}
+.w40{
+    width: 40%;
+}
+.mid-content{
+    width: 1024px;
+    margin: auto;
+}
+
+.google-header{
+    background-color: rgb(241, 241, 241);
+    border-bottom: 1px solid #111;
+    position: relative;
+}
+.google-header .header-icon img{
+    width: 150px;
+    height: auto;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.header-button{
+    position: absolute;
+    right: 50px;
+    top: 20px;
+}
+.header-button a{
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
+.content-heading h5{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 250px;
+    color: gray;
+}
+
+
+.main-content-section{
+    clear: both;
+
+}
+.content-left{
+    float: left;
+    width: 40%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.top-content{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.top-content h6{
+    font-size: 22px;
+    color: rgba(128, 128, 128, 0.788);
+    margin-bottom: 20px;
+}
+.top-content p{
+    color:  rgba(128, 128, 128, 0.788);
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.bottom-content{
+    text-align: center;
+}
+.bottom-content h6{
+    font-size: 22px;
+    color: rgba(128, 128, 128, 0.788);
+    margin-bottom: 20px;
+}
+.bottom-content p{
+    color:  rgba(128, 128, 128, 0.788);
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+
+.righter-content{
+
+}
+.content-right{
+    width: 50%;
+    box-sizing: border-box;
+    float: right;
+}
+.content-right .right-content-footer{
+    text-align: center;
+}
+.main-form{
+    background-color: rgb(242, 255, 230);
+    padding: 50px ;
+}
+.submit{
+    width: 100%;
+    text-align: right;
+    margin-top: 30px;
+    display: block;
+}
+.information-form .submit-btn{
+    background-color: blue;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+.information-form label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.information-form input{
+    padding: 5px 10px;
+    overflow: hidden;
+}
+.information-form select{
+    padding: 5px 10px;
+    overflow: hidden;
+}
+
+.captcha{
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 10px;
+}
+.checkbox{
+    display: flex;
+}
+.checkbox .check-in{
+    margin-right: 5px;
+    color: gray;
+}
+.checkbox .check-lebel{
+    color: gray;
+}
+
+
+
+
+
+
+
+#footer_area {
+    border-top: 1px solid #ebebeb;
+    padding: 10px;
+    margin-top: 1080px;
+  }
+  .left_box{float: left;overflow: hidden;}
+  .left_box ul {
+    list-style: outside none none;
+    text-align: left;
+  }
+  .left_box ul li{display: inline-block;}
+  .left_box ul li a {
+    color: #333333;
+    display: inline-block;
+    font-size: 12px;
+    padding: 8px;
+  }
+  .left_box ul li a:hover{}
+  .right_box{float: right;overflow: hidden;}
+  .right_box img{position: relative;top: 5px;}
+
+
+
+
